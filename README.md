@@ -1,5 +1,6 @@
 ## Responses
 Formating Readme : https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+Affective Computing : https://static1.squarespace.com/static/5f45536caa356e6ab51588f4/t/601d4636bbcf5134ca6ae03b/1612531254430/AffectiveComputing.pdf
 
 **Day 1** 
 > I hope to gain more insight about machine learning and figure out if this is a carear path I want to dedicate myself to 
