@@ -24,3 +24,4 @@ Affective Computing : https://static1.squarespace.com/static/5f45536caa356e6ab51
 **Day 9**
 > 1) They used concepts like prediction algorithms to determine if a candidate is a good fit or not.
 > 2) There are some districts where police use AI to determine jail length and overall sentencing. I feel if you could make the data as close as possible to the real deal without adding factors like race, it can start to help undo those biases. There's a lot of problems with the justice system and is usually due to human error. It felt like a keen issue to put an eye on.
+> 3) The ethical issues POC face in relation to AI is a mind-opener for me. I didn't realize there were such biases against minorities even at the largest of companies like Microsoft. It puts into perspective the value our work can have in the world around us in a better or worse way. I'll be sure to check for biases in my future projects to make the best product I can.
