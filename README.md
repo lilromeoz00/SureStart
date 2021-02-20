@@ -32,3 +32,6 @@ Affective Computing : https://static1.squarespace.com/static/5f45536caa356e6ab51
 
 **Day 16**
 > 1) The ReLU Activation Function is used as a versatile and efficent way to help train neural networks. (Not NNs like RNNs) The benefits include faster training time, reduced gradient vanishing, better convergance, and is the top choice for deep learning. We can see an example of this from our MNIST dataset from a couple days ago where we used ReLU activation functions as the activation function for our convolution layers.
+
+**Day 18**
+> 1) Seeing better results just by changing the loss function was pretty interesting. I know it depends on what you're trying to accomplish with your model, but seeing an increased accuracy from such a little tweak makes me wonder what else can increase accuracy. On my house data I used both mean squared and absolute error which both got me 1.5 points higher then my past attempt. In high level kaggle comps I see the scores often are calculated using MSE.
