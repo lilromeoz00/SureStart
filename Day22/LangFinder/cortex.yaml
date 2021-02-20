@@ -5,7 +5,7 @@
   name: identifier
   predictor:
     type: python
-    path: predictor.py
+    path: pred.py
   tracker:
     model_type: classification
   compute:
